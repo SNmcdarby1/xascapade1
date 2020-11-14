@@ -1,2 +1,2 @@
 # xascapade
-It a booking platform for holiday destination -MS2-project)
+This is a booking platform for holiday destination -MS2-project)
