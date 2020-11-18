@@ -4,8 +4,8 @@
 
 
 /*------------------------------------------------------------------------------body*/
-body{
-    background: url ('../background-2.jpg') no-repeat;
+.background-image{
+    background: url("..../images/background.jpg");
     background-size: cover;
     font-family: Roboto;
     background-position: auto;
@@ -45,15 +45,6 @@ ul lil :hover ul li{
     display:block;
 }
 /*-----------------------------------------------------------------------------*/
-.d-sm-flex{
-    margin: 0;}
-}
-.mr-3 {
- margin-right: 1rem}
-}
-.toggle {
-    display: -ms-flexbox -moz-box -moz-inline-flex -webkit-flex ;
-}
 
 /*--------------------------------------------------------------------------------------*/
 h1,
@@ -78,23 +69,6 @@ h4 {
     color: rgba(228, 38, 13, 0.966);
 }
 
-#nav{
-    margin: 0;
-}
-
-#nav lI{
-    font-size: 14px;
-    padding: 0;
-
-}
-.nav-bar{
-    scroll-margin-block: 25px
-    margin-top:25px;
-    margin-left:5px;
-    padding:15px;
-    display:block;
-}
-.
 /*--------------------------------------------------------------------------------------footer*/
 
 .hvr-sweep-to-bottom:before {
@@ -148,4 +122,3 @@ h4 {
 
 
 /*--------------------------------------------------------------------------------------media/
-@media (min-width: 576px) { ... }
